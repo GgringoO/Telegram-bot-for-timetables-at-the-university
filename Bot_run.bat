@@ -6,7 +6,7 @@ set REBOOT_DELAY_SECONDS=10
 
 cd /d "%~dp0"
 
-set TOKEN=token='6123530888:AAFDg1uB3SuaeoZY6lhH6O8-mVNjtPKAUsQ'
+set TOKEN=token='Your token'
 
 :loop
 
